@@ -1,4 +1,4 @@
-# Mobile Ludum In Spatio Isometric
+# Lrem Ipsum mobile game
 
 ![alt game screenshoot](imgs/logo.png)
 
