@@ -6170,7 +6170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bfedbf8fd5a6e8e4ba3fbb55ac42372b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameOfNextScene: 
+  nameOfNextScene: Rozhovor
   posledniDlazdice: {fileID: 1162365449}
 --- !u!1 &1309000461
 GameObject:
