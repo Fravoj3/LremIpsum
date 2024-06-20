@@ -1,6 +1,6 @@
 # Lrem Ipsum mobile game
 
-Created by: Vojtěch Franc, Matěj Bittner, Jana Šrámková a Kateřina Svobodová
+> Created by: Vojtěch Franc, Matěj Bittner, Jana Šrámková a Kateřina Svobodová
 
 ![alt game screenshoot](imgs/logo.png)
 
