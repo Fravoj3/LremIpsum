@@ -72,20 +72,20 @@ public class SpecialConnection
 public class LevelCotroller : MonoBehaviour
 {
     // Vstupn� data z inspektoru
-    [Header("M�sto, kde se objev� hr? po na?ten� levelu")]
+    [Header("Místo, kde se objeví hráč po načtení levelu")]
     [Space]
     public GameObject playerPosition;
 
-    [Header("Seznam dla�dic jako tla?�tek")]
+    [Header("Seznam dlaždic jako tlačítek")]
     [Space]
-    [Header("Konec smy?ky se ozn?� vlo�en�m pr�zdn�ho elementu do pole.")]
+    [Header("Konec smyčky se označí vložením prázdného elementu do pole.")]
     public GameObject[] buttons;
 
     [Header("Odkaz na GameObject se skripty SpecialConnections pro tento level")]
     [Space]
     public GameObject specialConnectionsManager;
 
-    [Header("ID spojen� na kter� odkazuje skript SpecialConnection:")]
+    [Header("ID spojení na který odkazuje skript SpecialConnection:")]
     public bool[] IDOkolnosti;
 
     ArrayList points = new ArrayList();
@@ -93,7 +93,7 @@ public class LevelCotroller : MonoBehaviour
 
     // Saving level data variables
     [Space]
-    [Header("Ukl�d�n� progresu ve h?e")]
+    [Header("Ukládání prograsu ve hře")]
 
     public bool autoSave = true;
 
